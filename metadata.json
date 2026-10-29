@@ -1,0 +1,6 @@
+{
+  "name": "SPOTLIGHT - Acting & Talent Discovery Platform",
+  "description": "Your Talent. Your Moment. Your Spotlight. The cinematic platform for performance discovery, actor portfolios, casting opportunities, and scene labs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
